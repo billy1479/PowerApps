@@ -10,6 +10,20 @@ The calendar power app is a basic Power App frame with calendar functionality wh
 - Easily move through months and years.
 - Colour code events based off event type.
 
+## Job Sheets Power App
+
+This Power App was an upgrade to the legacy system I made for ArdenIT Ltd. The legacy system allowed job sheets to be created following site visits, store the results in an SQL database and email the details to the expenses team. 
+
+The Power App edition allowed for an ease of use for engineers by granting easier UI customisation. Also, it integrated better with 365 tenant details and allowed data to be stored in SharePoint Lists. Power Automate flows are required with this app in order for it to work. 
+
+### Features
+- Data entry
+- File upload
+- Person column
+- Linked to flows
+- PDF creation
+- Emailing
+
 ## Support Request App
 
 The support request app is a tracking app for support requests received to project members over the course of the project I worked on at Durham University. It allows basic data entry and filtering for requests which are stored on a SharePoint List. 
